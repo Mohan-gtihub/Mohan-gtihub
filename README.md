@@ -81,20 +81,6 @@ ESP32 · MQTT · ARM · Arduino
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&bg_color=0d0d1a" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&langs_count=6" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" />
-
-</div>
-
----
 
 <div align="center">
 
