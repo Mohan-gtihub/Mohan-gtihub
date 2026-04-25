@@ -51,7 +51,7 @@ ESP32 · MQTT · ARM · Arduino
 | IoT Home Automation | ESP8266 · MQTT · Node-RED | ✅ Running |
 | ARM Firmware | LPC2148 · C/Assembly | ✅ Deployed |
 | Raspberry Pi Weather Station | RPi · Python · APIs | ✅ Online |
-| Arduino Gaming Console | Arduino · C++ · Custom HW | ✅ Built |
+| ESP8266 Gaming Console | OLED · C++ · Custom HW | ✅ Built |
 
 ---
 
